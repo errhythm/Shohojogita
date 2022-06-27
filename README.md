@@ -6,7 +6,7 @@
  
  ## Creators
   1. [Shafakat Sowroar Arnob](https://github.com/ShafakatArnob).
-  2.
+  2. [Rajvir Ahmed Shuvo](https://github.com/Rajvira10).
   3. [Ehsanur Rahman Rhythm](https://github.com/errhythm).
   4. 
   
