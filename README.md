@@ -1,4 +1,4 @@
-﻿# Shohojogita
+# Shohojogita
  *Shohojogita - is a Crowdfunding platform where Fundraisers and Donators meet.*
  
  - Fundraisers can create Campaigns to raise funds for any kind of purposes.
@@ -8,7 +8,7 @@
   1. [Shafakat Sowroar Arnob](https://github.com/ShafakatArnob)
   2. [Rajvir Ahmed Shuvo](https://github.com/Rajvira10) 
   3. [Ehsanur Rahman Rhythm](https://github.com/errhythm)
-  4. 
+  4. [Tanjib Ahmed](https://github.com/tanjibahmed602) 
   
   ## Technologies
    React.js - Node.js - Express.js - MySql
